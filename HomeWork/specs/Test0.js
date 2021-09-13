@@ -26,4 +26,4 @@ describe('TestTask', () => {
         await assert.deepStrictEqual( await TitleLine.getValue(), "Table for autotesting" );
 
     });
-});//kn/lkn/nm,jfykfh,fy
+});
